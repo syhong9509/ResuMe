@@ -6,5 +6,5 @@
 
 2.  Once you're signed into github, go to <a href = https://github.com/Peredwel/ResuMe> Group20's code project repository </a> .  
 
-3.  Fork the repository from github by clicking on the 'Fork' button in the top right-hand corner of the screen: <img src = "Images/2212_Fork.JPG">
+3.  Fork the repository from github by clicking on the 'Fork' button in the top right-hand corner of the screen: <img src = "/Images/2212_Fork.JPG">
 
