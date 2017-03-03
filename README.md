@@ -8,3 +8,4 @@
 
 3.  Fork the repository from github by clicking on the 'Fork' button in the top right-hand corner of the screen: <img src = "/Images/2212_Fork.JPG">
 
+This should make the ResuMe repository appear in 
