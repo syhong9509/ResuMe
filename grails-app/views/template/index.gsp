@@ -8,7 +8,7 @@
 </head>
 <body>
     <br/>
-    <h1 class = "heading" align = "center">Choose a Template</h1>
+    <h1 class = "heading" align = "center">Choose Template</h1>
     <div id = "templateList"></div>
     <asset:javascript src= "app4.all.js"/>
 </body>
