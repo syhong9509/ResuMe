@@ -12,15 +12,8 @@ class ProfileController extends RestfulController {
 
     static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
-    def index(Integer max) {
-    }
+    def index(){
 
-    def show(Profile profile) {
-        respond profile
-    }
-
-    def create() {
-        respond new Profile(params)
     }
 
     def save(Profile profile) {
